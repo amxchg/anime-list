@@ -1,0 +1,75 @@
+// paper & background
+$paper: #ffffff;
+
+// primary
+$primaryLight: #ececec;
+$primaryMain: #282b42;
+$primaryDark: #202235;
+$primary200: #a9aab3;
+$primary800: #10111a;
+
+// secondary
+$secondaryLight: #fbded7;
+$secondaryMain: #e95b35;
+$secondaryDark: #ba492a;
+$secondary200: #f6bdae;
+$secondary800: #5d2415;
+
+// grey
+$grey50: #f8fafc;
+$grey100: #eef2f6;
+$grey200: #e3e8ef;
+$grey300: #cdd5df;
+$grey500: #697586;
+$grey600: #4b5565;
+$grey700: #364152;
+$grey900: #121926;
+
+// green
+$greenCheck: #28A745;
+
+// red
+$redFavorite: #c62828;
+
+// yellow
+$yellowStar: #FDD835;
+
+// ==============================|| JAVASCRIPT ||============================== //
+
+:export {
+  // paper & background
+  paper: $paper;
+
+  // primary
+  primaryLight: $primaryLight;
+  primary200: $primary200;
+  primaryMain: $primaryMain;
+  primaryDark: $primaryDark;
+  primary800: $primary800;
+
+  // secondary
+  secondaryLight: $secondaryLight;
+  secondary200: $secondary200;
+  secondaryMain: $secondaryMain;
+  secondaryDark: $secondaryDark;
+  secondary800: $secondary800;
+
+  // grey
+  grey50: $grey50;
+  grey100: $grey100;
+  grey200: $grey200;
+  grey300: $grey300;
+  grey500: $grey500;
+  grey600: $grey600;
+  grey700: $grey700;
+  grey900: $grey900;
+
+  // green
+  greenCheck: $greenCheck;
+
+  // red
+  redFavorite: $redFavorite;
+
+  // yellow
+  yellowStar: $yellowStar;
+}
